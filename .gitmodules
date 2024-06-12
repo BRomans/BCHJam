@@ -1,0 +1,6 @@
+[submodule "BCHJamConsole"]
+	path = BCHJamConsole
+	url = git@github.com:BRomans/BCHJamConsole.git
+[submodule "BCHJamDaw"]
+	path = BCHJamDaw
+	url = git@github.com:BRomans/BCHJamDaw.git
