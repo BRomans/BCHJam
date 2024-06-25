@@ -5,11 +5,17 @@ Root repository of the **_BCHJam_** project.
 **_BCHJam_** is a BCMI for Live Music Performance in Shared Mixed Reality Environments.
 Thanks to its distributed OSC components it allows networked music performance according to the Internet of Musical Things paradigm.
 
-[<img src="https://github.com/BRomans/BCHJam/bchjamdemo.png" width="75%" >](https://drive.google.com/open?id=1RQcWFBTibWkZL6v_cuhEFP-T4ZM4Qv7w&usp=drive_fs)
+
+[![preview](https://github.com/BRomans/BCHJam/bchjamdemo.png)](https://drive.google.com/open?id=1RQcWFBTibWkZL6v_cuhEFP-T4ZM4Qv7w&usp=drive_fs)
+
 
 ## Architecture
 **_BCHJam_** features a distributed architecture that communicates over the network using the Open Sound Control (OSC) protocol.
-![architecture]([http://url/to/img.png](https://github.com/BRomans/BCHJam/bch-schema.drawio.pdf))
+
+
+![architecture](https://github.com/BRomans/BCHJam/bch-schema.drawio.png)
+
+
 The musician is represented on the left, with both their instrument and their BCI device. The signals from the BCI
 are streamed via Bluetooth and processed by a computer running the BCI-console, where active and passive signal processing is performed. Signals from the
 active BCI selection of targets are sent via the OSC protocol over Wi-Fi to a DAW running a number of virtual audio effects. The audio signal from the
