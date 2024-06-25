@@ -12,8 +12,9 @@ Thanks to its distributed OSC components it allows networked music performance a
 ## Architecture
 **_BCHJam_** features a distributed architecture that communicates over the network using the Open Sound Control (OSC) protocol.
 
-
-<img src="https://github.com/BRomans/BCHJam/blob/main/bch-schema.drawio.pdf" width="100%">
+<p align="center">
+  <img src="https://github.com/BRomans/BCHJam/blob/main/bch-schema.drawio.png" width="75%">
+</p>
 
 
 The musician is represented on the left, with both their instrument and their BCI device. The signals from the BCI
