@@ -6,14 +6,14 @@ Root repository of the **_BCHJam_** project.
 Thanks to its distributed OSC components it allows networked music performance according to the Internet of Musical Things paradigm.
 
 
-[![preview](https://github.com/BRomans/BCHJam/bchjamdemo.png)](https://drive.google.com/open?id=1RQcWFBTibWkZL6v_cuhEFP-T4ZM4Qv7w&usp=drive_fs)
+[![preview](https://github.com/BRomans/BCHJam/blob/main/bchjamdemo.png)](https://drive.google.com/open?id=1RQcWFBTibWkZL6v_cuhEFP-T4ZM4Qv7w&usp=drive_fs)
 
 
 ## Architecture
 **_BCHJam_** features a distributed architecture that communicates over the network using the Open Sound Control (OSC) protocol.
 
 
-![architecture](https://github.com/BRomans/BCHJam/bch-schema.drawio.png)
+![architecture](https://github.com/BRomans/BCHJam/blob/main/bch-schema.drawio.png)
 
 
 The musician is represented on the left, with both their instrument and their BCI device. The signals from the BCI
