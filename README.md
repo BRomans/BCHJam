@@ -54,3 +54,18 @@ _Gregorio Andrea Giudici_
 _Michele Romani_  
 _Domenico Stefani_  
 _Devis Zanoni_  
+
+## Cite This Work
+Please remember to cite this work if you use it in your project.
+
+@INPROCEEDINGS{10704087,
+  author={Romani, Michele and Giudici, Gregorio Andrea and Stefani, Domenico and Zanoni, Devis and Boem, Alberto and Turchet, Luca},
+  booktitle={2024 IEEE 5th International Symposium on the Internet of Sounds (IS2)}, 
+  title={BCHJam: a Brain-Computer Music Interface for Live Music Performance in Shared Mixed Reality Environments}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-9},
+  keywords={Headphones;Instruments;Ecosystems;Music;Mixed reality;Visual effects;Brain-computer interfaces;Internet;Wireless fidelity;Tuning;Brain-computer interfaces;Mixed Reality;Performance Ecosystem;Internet of Musical Things},
+  doi={10.1109/IS262782.2024.10704087}}
+
